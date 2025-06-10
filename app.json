@@ -7,14 +7,14 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {malvin~92EiXI4C#_f0-4X2kcjt0RssTnYD1DuEZQ5xu80SwT_OcQu9-TWk
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "𝐁𝐋 𝐀𝐃𝐇𝐈 𝟕𝟕𝟕+.",
       "required": false,
       "value": "ᴍᴀʟᴠɪɴ-xᴅ"
     }, 
